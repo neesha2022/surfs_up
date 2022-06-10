@@ -1,12 +1,3 @@
-# FLASK_APP CREATION SCRIPT:
-# By Carly Sandler
-# ----------------------------
-# ---------------------------- 
-
-# ----------------------------
-# 1. SET UP THE FLASK WEATHER APP
-# ----------------------------
-
 # Import Python dependencies
 import datetime as dt
 import numpy as np
